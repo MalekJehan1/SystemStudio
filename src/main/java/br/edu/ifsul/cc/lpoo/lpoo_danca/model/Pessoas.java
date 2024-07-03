@@ -21,7 +21,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 
 @Entity
@@ -44,7 +44,7 @@ public abstract class Pessoas implements Serializable {
     @Column(nullable = false, length = 50)
     private String email;
 
-    @Column(nullable = false, length = 50)
+    @Column(nullable = false, length = 30)
     private String endereco;
 
     public Pessoas() {
