@@ -6,7 +6,7 @@ package br.edu.ifsul.cc.lpoo.lpoo_danca.model;
 
 /**
  *
- * @author 20221PF.CC0003
+ * @author malek
  */
 public enum FormaPgt {
     PIX, DINHEIRO

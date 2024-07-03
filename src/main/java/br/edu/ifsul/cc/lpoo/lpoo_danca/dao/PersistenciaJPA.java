@@ -11,7 +11,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 public class PersistenciaJPA implements InterfacePersistencia{
     

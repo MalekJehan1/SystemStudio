@@ -8,9 +8,9 @@ import javax.persistence.metamodel.CollectionAttribute;
 import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
 
-@Generated(value="org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor", date="2024-07-03T10:44:56", comments="EclipseLink-2.7.12.v20230209-rNA")
+@Generated(value="org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor", date="2024-07-03T10:55:56", comments="EclipseLink-2.7.12.v20230209-rNA")
 @StaticMetamodel(Professores.class)
-public class Professores_ extends Pessoas_ {
+public class Professores_ { 
 
     public static volatile CollectionAttribute<Professores, Modalidades> modalidades;
     public static volatile SingularAttribute<Professores, Calendar> dataAdmissao;

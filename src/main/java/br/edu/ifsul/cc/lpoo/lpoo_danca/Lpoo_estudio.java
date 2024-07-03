@@ -6,7 +6,7 @@ package br.edu.ifsul.cc.lpoo.lpoo_danca;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 public class Lpoo_estudio {
 

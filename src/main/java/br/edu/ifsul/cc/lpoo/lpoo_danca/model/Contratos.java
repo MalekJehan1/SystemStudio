@@ -25,7 +25,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 @Entity
 public class Contratos implements Serializable{

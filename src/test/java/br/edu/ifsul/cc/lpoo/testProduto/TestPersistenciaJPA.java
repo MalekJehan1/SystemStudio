@@ -11,7 +11,7 @@ import org.junit.Test;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 public class TestPersistenciaJPA {
     

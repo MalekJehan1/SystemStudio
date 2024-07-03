@@ -16,7 +16,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author 20221PF.CC0003
+ * @author malek
  */
 
 @Entity

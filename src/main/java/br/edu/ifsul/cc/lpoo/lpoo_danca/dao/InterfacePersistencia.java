@@ -7,7 +7,7 @@ package br.edu.ifsul.cc.lpoo.lpoo_danca.dao;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 public interface InterfacePersistencia {
     

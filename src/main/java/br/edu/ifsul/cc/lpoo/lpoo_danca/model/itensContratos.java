@@ -16,7 +16,7 @@ import javax.persistence.OneToOne;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 
 @Entity

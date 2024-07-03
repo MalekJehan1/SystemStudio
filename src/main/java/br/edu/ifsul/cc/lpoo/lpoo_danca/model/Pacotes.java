@@ -15,7 +15,7 @@ import javax.persistence.ManyToOne;
 
 /**
  *
- * @author dalmi
+ * @author malek
  * 
  * campo descricao deve conter até 120 caracteres e ser obrigatório. 
     campo valor deve ser obrigatório

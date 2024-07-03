@@ -18,7 +18,7 @@ import javax.persistence.ManyToOne;
 
 /**
  *
- * @author dalmi
+ * @author malek
  */
 @Entity
 public class Modalidades implements Serializable {
